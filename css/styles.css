@@ -1,0 +1,53 @@
+body {
+background-color: #B7CADB;
+color: #FDF6EC;
+text-align: center;
+}
+
+h1 {
+font-family: 'Dawning of a New Day', cursive;
+margin-top: 10px;
+margin-bottom: 10px;
+font-size: 450%;
+font-weight:normal;
+padding: 0px
+}
+table, td, tr {
+font-family: 'Raleway', sans-serif;
+height:10px;
+padding: 0px;
+margin: 0px;
+}
+
+a:link, a:visited, a:hover, a:active {
+color: #CCA46A; text-decoration: none
+
+}
+.Index {
+  width: 15%;
+  border-radius: 25px;
+  height: 12px;
+  padding: 6px;
+  background-color: #F3E9DD;
+  margin-right: 0px;
+  margin-left: 0px;
+ }
+
+.Indexphoto{
+ width:28%;
+
+}
+
+.FlowersL{
+   width:110%;
+   text-align: left;
+   margin: 0px;
+   padding: 0px;
+}
+
+.FlowersR{
+   width: 110%;
+   text-align: right;
+   margin: 0px;
+   padding: 0px;
+}
